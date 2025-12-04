@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movieTitle>Avengers: Endgame</movieTitle>
+        <profit>2797800000</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2019-04-26</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829895144</profit>
+        <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Amazon Prime</platform>
+    </movie>
+    <movie>
+        <movieTitle>Parasite</movieTitle>
+        <profit>258404420</profit>
+        <movieGenre>Thriller</movieGenre>
+        <releaseDate>2019-05-30</releaseDate>
+        <platform>Hulu</platform>
+    </movie>
+    <movie>
+        <movieTitle>Spider-Man: No Way Home</movieTitle>
+        <profit>1850000000</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2021-12-17</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+</movies>
